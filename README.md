@@ -69,10 +69,6 @@ The system will retrieve relevant document chunks based on your question and use
 - **Prompt Template:** Modify the `prompt_template` in Step 10 to change the behavior of the conversational QA chain.
 - **Retriever Search Parameters:** Adjust `search_kwargs` (e.g., `k`) in Step 10 to control the number of document chunks retrieved.
 
-## License
-
-[Specify your license here, e.g., MIT, Apache 2.0]
-
 ## Acknowledgements
 
 - [Langchain](https://www.langchain.com/)
